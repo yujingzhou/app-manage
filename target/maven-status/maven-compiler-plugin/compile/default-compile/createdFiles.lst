@@ -1,0 +1,15 @@
+com\product\manage\controllers\AppController.class
+com\product\manage\mappers\AppMapper.class
+com\product\manage\controllers\QuickMarkController.class
+com\product\manage\services\PackageService.class
+com\product\manage\annotations\MyBatisRepository.class
+com\product\manage\conf\PackageConf.class
+com\product\manage\controllers\PackageController.class
+com\product\manage\conf\UploadConf.class
+com\product\manage\controllers\DownloadController.class
+com\product\manage\services\AppService.class
+com\product\manage\utils\UploadUtil.class
+com\product\manage\mappers\PackageMapper.class
+com\product\manage\controllers\HomeController.class
+com\product\manage\models\Pakkage.class
+com\product\manage\models\App.class
